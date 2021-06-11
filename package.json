@@ -1,6 +1,6 @@
 {
-  "name": "node-deeplink",
-  "version": "0.5.0",
+  "name": "@dplewis/node-deeplink",
+  "version": "1.0.0",
   "description": "Easily create an endpoint in your web server that redirects deep links to mobile apps",
   "main": "lib/deeplink.js",
   "scripts": {
@@ -12,11 +12,11 @@
   "homepage": "https://github.com/mderazon/node-deeplink",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mderazon/node-deeplink.git"
+    "url": "git://github.com/dplewis/node-deeplink.git"
   },
   "license": "MIT",
   "dependencies": {
-    "html-inline": "^1.2.0"
+    "html-inline": "1.2.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
